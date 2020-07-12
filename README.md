@@ -4,10 +4,13 @@
 
 <h2>YouTube link to our project demo:</h2>
 <h3>https://bit.ly/newhack-video</h3>
-<br>
-<br>
 
+<br>
+<h2>Synopsis:</h2>
+<h3>https://bit.ly/newhack-synopsis</h3>
 
+<h2>Presentation:</h2>
+<h3>https://bit.ly/newhack-ppt</h3>
 
 Mistakes of violating social distancing are often committed without consciousness. 
 It is very much required to look for a feasible method to deal with the same by employing a bot to monitor the social distancing and spread awareness among the human community. 
